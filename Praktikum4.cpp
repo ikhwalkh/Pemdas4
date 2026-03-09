@@ -17,7 +17,7 @@ string Status_lulus(float r){
 int main(){
     float nilBI,nilMT,rerata;
     string status;
-
+// cara pemakainnya if else
     cout << "Masukkan nilai Bahasa inggris = ";
     cin >> nilBI;
     cout << "Masukkan nilai Matematika = ";
