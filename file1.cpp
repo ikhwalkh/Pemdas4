@@ -8,7 +8,7 @@ int main(){
 
     srand(time(0));
     x = rand() % 10;
-
+//if nya
     if (x==5){
         x = x+1;
         cout << "nilai x sudah dikoreksi menjadi" <<x<<endl;
